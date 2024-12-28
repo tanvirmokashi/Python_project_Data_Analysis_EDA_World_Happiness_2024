@@ -1,0 +1,11 @@
+
+1. GDP and Happiness: How does GDP per capita relate to happiness scores? (Scatter plot)
+2. Regional GDP Analysis: Which regions contribute most to GDP per capita? (Pie chart)
+3. Social Support: How does social support impact happiness scores? (Scatter plot)
+4. Corruption and Happiness: What is the impact of perceived corruption on happiness? (Scatter plot)
+5. Health and Happiness: Is there a correlation between healthy life expectancy and happiness? (Scatter plot)
+6. Freedom and Happiness: How does freedom to make life choices influence happiness? (Scatter plot)
+7. Top and Bottom Countries: What are the happiest and least happy countries? (Bar chart)
+8. Generosity Distribution: Which countries and regions are the most generous? (Bar chart)
+9. Correlation Analysis: What are the key correlations among the dataset variables? (Heatmap)
+10. Generosity Trends: How do the top and bottom countries compare in terms of generosity? (Bar chart)
