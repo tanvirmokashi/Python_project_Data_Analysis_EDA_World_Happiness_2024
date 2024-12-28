@@ -101,7 +101,7 @@ The analysis suggests that focusing on improving economic conditions, health, an
 
 ## Resources
 
-- **Dataset**: World Happiness Dataset 2024
+- **Dataset**: World Happiness Dataset 2024 from Kaggle.
 - **Analysis Framework**: Custom Python scripts
 
 ---
